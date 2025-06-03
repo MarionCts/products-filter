@@ -3,37 +3,37 @@ const produits = [
     nom: "Smartphone X",
     categorie: "Électronique",
     prix: 699,
-    image: "../img/smartphone.avif",
+    image: "img/smartphone.avif",
   },
   {
     nom: "Roman Policier",
     categorie: "Livres",
     prix: 14,
-    image: "../img/policier.jpg",
+    image: "img/policier.jpg",
   },
   {
     nom: "T-shirt Coton",
     categorie: "Vêtements",
     prix: 25,
-    image: "../img/tshirt.webp",
+    image: "img/tshirt.webp",
   },
   {
     nom: "Casque Bluetooth",
     categorie: "Électronique",
     prix: 89,
-    image: "../img/casque.png",
+    image: "img/casque.png",
   },
   {
     nom: "Sweat à capuche",
     categorie: "Vêtements",
     prix: 40,
-    image: "../img/sweat.png",
+    image: "img/sweat.png",
   },
   {
     nom: "Essai Historique",
     categorie: "Livres",
     prix: 19,
-    image: "../img/essai.jpg",
+    image: "img/essai.jpg",
   },
 ];
 
